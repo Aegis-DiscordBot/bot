@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="your-aegis-logo-url-here" alt="Aegis Logo" width="120" height="120" style="border-radius: 50%;"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi32y-3-NV78xgntugZD9kLpMIf9GONFbRfw&s" alt="Aegis Logo" width="120" height="120" style="border-radius: 50%;"/>
 
 # Aegis — Bot
 
